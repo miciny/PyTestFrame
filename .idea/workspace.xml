@@ -1,106 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69c24808-d6cb-4c91-b0d3-56c8abca912e" name="Default Changelist" comment="" />
+    <list default="true" id="69c24808-d6cb-4c91-b0d3-56c8abca912e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/UserName.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Result/20191115113010/outPut.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Result/20191115113234/outPut.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Result/20191115113326/outPut.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Result/20191115113603/outPut.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Result/20191115144718/outPut.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestRun.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PyTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/Config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/ReadConfig.py" beforeDir="false" afterPath="$PROJECT_DIR$/Common/ReadConfig.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Elements/UserName.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Elements/MainPage.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Fixture/FixtureBase.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Common/Log.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2340">
-              <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Common/ReadConfig.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-135">
-              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-              <folding>
-                <element signature="e#74#82#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Common/ReadExcel.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AppiumDriver/AppiumServer.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-              <folding>
-                <element signature="e#29#38#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AppiumDriver/WebDriver.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="56" column="40" selection-start-line="56" selection-start-column="34" selection-end-line="56" selection-end-column="40" />
-              <folding>
-                <element signature="e#29#45#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AppiumDriver/CommonAction.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-60">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/TestCase/test_pytest_base.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -109,76 +30,18 @@
       </list>
     </option>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/test_pytest_base.py" />
-        <option value="$PROJECT_DIR$/PytestBase.py" />
-        <option value="$PROJECT_DIR$/FixtureBase.py" />
-        <option value="$PROJECT_DIR$/Common/ReadConfig.py" />
-        <option value="$PROJECT_DIR$/Common/Config.ini" />
-        <option value="$PROJECT_DIR$/AppiumDriver/CommonAction.py" />
-        <option value="$PROJECT_DIR$/Common/ReadExcel.py" />
-        <option value="$PROJECT_DIR$/AppiumDriver/SetAppiumDriver.py" />
-        <option value="$PROJECT_DIR$/TestCase/test_pytest_base.py" />
-        <option value="$PROJECT_DIR$/Common/Log.py" />
-        <option value="$PROJECT_DIR$/AppiumDriver/AppiumServer.py" />
-        <option value="$PROJECT_DIR$/AppiumDriver/WebDriver.py" />
-        <option value="$PROJECT_DIR$/Fixture/FixtureBase.py" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="PyTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PyTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PyTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PyTest" type="462c0819:PsiDirectoryNode" />
-              <item name="AppiumDriver" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PyTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PyTest" type="462c0819:PsiDirectoryNode" />
-              <item name="Common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PyTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PyTest" type="462c0819:PsiDirectoryNode" />
-              <item name="Elements" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PyTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PyTest" type="462c0819:PsiDirectoryNode" />
-              <item name="Fixture" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PyTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PyTest" type="462c0819:PsiDirectoryNode" />
-              <item name="TestCase" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectId" id="1TdK6XALKEH3lTV3RYKigNZCqZI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GomeUITest" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -193,6 +56,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GitHub\WorkProject\PyTest" />
+      <recent name="D:\GitHub\WorkProject\PyTest\Resources" />
       <recent name="D:\GitHub\PyTest\TestCase" />
       <recent name="D:\GitHub\PyTest\Fixture" />
     </key>
@@ -209,7 +74,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.pytest in test_pytest_base.py">
+  <component name="RunManager" selected="Python tests.pytest for test_pytest_base.TestLogin">
     <configuration name="PytestBase" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PyTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -282,8 +147,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest in test_pytest_base.py" />
         <item itemvalue="Python tests.pytest for test_pytest_base.TestLogin" />
+        <item itemvalue="Python tests.pytest in test_pytest_base.py" />
         <item itemvalue="Python tests.pytest for test_pytest_base.test_3" />
         <item itemvalue="Python.PytestBase" />
       </list>
@@ -300,186 +165,36 @@
       <option name="presentableId" value="Default" />
       <updated>1559643222611</updated>
       <workItem from="1559643223815" duration="9636000" />
+      <workItem from="1573784381961" duration="3594000" />
+      <workItem from="1573797768389" duration="2892000" />
+      <workItem from="1574047517269" duration="287000" />
     </task>
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="pytest_for_test_pytest_base_TestLogin - 2019.06.06 at 13h 25m 35s.xml">
-      <configuration name="pytest for test_pytest_base.TestLogin" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_pytest_base_py - 2019.06.06 at 13h 49m 01s.xml">
-      <configuration name="pytest in test_pytest_base.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_pytest_base_py - 2019.06.06 at 13h 50m 47s.xml">
-      <configuration name="pytest in test_pytest_base.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_pytest_base_py - 2019.06.06 at 13h 53m 33s.xml">
-      <configuration name="pytest in test_pytest_base.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_pytest_base_py - 2019.06.06 at 13h 54m 29s.xml">
-      <configuration name="pytest in test_pytest_base.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_pytest_base_py - 2019.06.06 at 13h 55m 57s.xml">
-      <configuration name="pytest in test_pytest_base.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_pytest_base_py - 2019.06.06 at 13h 59m 53s.xml">
-      <configuration name="pytest in test_pytest_base.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_pytest_base_py - 2019.06.06 at 14h 01m 02s.xml">
-      <configuration name="pytest in test_pytest_base.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_pytest_base_py - 2019.06.06 at 14h 02m 48s.xml">
-      <configuration name="pytest in test_pytest_base.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="pytest_in_test_pytest_base_py - 2019.06.06 at 14h 07m 51s.xml">
-      <configuration name="pytest in test_pytest_base.py" configurationId="tests" />
-    </history-entry>
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9636000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32946146" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PyTest$PytestBase.coverage" NAME="PytestBase Coverage Results" MODIFIED="1559643690226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyTest$pytest_for_test_pytest_base_test_3.coverage" NAME="pytest for test_pytest_base.test_3 Coverage Results" MODIFIED="1559797009956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
     <SUITE FILE_PATH="coverage/PyTest$pytest_in_test_pytest_base_py.coverage" NAME="pytest in test_pytest_base.py Coverage Results" MODIFIED="1559801270724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PyTest$pytest_for_test_pytest_base_TestLogin.coverage" NAME="pytest for test_pytest_base.TestLogin Coverage Results" MODIFIED="1559798734845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
-    <SUITE FILE_PATH="coverage/PyTest$PytestBase.coverage" NAME="PytestBase Coverage Results" MODIFIED="1559643690226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Common/Config">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Common/Config.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Elements/UserName">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PytestBase.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Common/Result/20190606134900/outPut.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Result/20190606135429/outPut.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Result/20190606135047/outPut.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Result/20190606135557/outPut.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AppiumDriver/AppiumServer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-          <folding>
-            <element signature="e#29#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AppiumDriver/WebDriver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="56" column="40" selection-start-line="56" selection-start-column="34" selection-end-line="56" selection-end-column="40" />
-          <folding>
-            <element signature="e#29#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AppiumDriver/CommonAction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-60">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Common/Log.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2340">
-          <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Common/ReadExcel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Common/ReadConfig.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-135">
-          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-          <folding>
-            <element signature="e#74#82#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Result/20190606140751/outPut.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Fixture/FixtureBase.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestCase/test_pytest_base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <SUITE FILE_PATH="coverage/PyTest$pytest_for_test_pytest_base_TestLogin.coverage" NAME="pytest for test_pytest_base.TestLogin Coverage Results" MODIFIED="1573800437550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCase" />
   </component>
   <component name="masterDetails">
     <states>

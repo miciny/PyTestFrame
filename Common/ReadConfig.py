@@ -14,7 +14,7 @@ import configparser
 
 
 prj_dir = os.path.split(os.path.realpath(__file__))[0]
-configfile_path = prj_dir + "/Config.ini"
+configfile_path = os.path.join(prj_dir, "../Config.ini")
 
 
 class ReadConfig:
